@@ -10,7 +10,7 @@ Technologies Utilisées
 
 Node.js : Environnement d'exécution JavaScript
 Express : Framework web pour Node.js
-Mongo DB : Base de données relationnelle 
+Mongo DB : Base de données 
 Swagger : Documentation interactive de l'API.
 Création du projet 
      . créer le dossier 
